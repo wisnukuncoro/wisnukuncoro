@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a final year student majoring in information systems at Indonesian Computer University. I have interest in Data Analytics, Web Development, and DevOps. I am currently learning at Bangkit Academy, specializing in Machine Learning.
+
 <p align="left">
 <a href="https://github.com/wisnukuncoro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnukuncoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
