@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a final year student majoring in information systems at Indonesian Computer University. I have interest in Data Analytics, Web Development, and DevOps. I am currently learning at Bangkit Academy, specializing in Machine Learning.
+I am a final year student majoring in information systems at Indonesian Computer University. I have interest in Data Analytics, Machine Learning, and Business Intelligence. I am a graduate pf the Bangkit Academy Program, specializing in Machine Learning.
 
 <p align="left">
 <a href="https://github.com/wisnukuncoro">
