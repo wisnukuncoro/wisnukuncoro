@@ -1,6 +1,29 @@
-### Hi there 👋
+## 👋 Hello, I'm Wisnu!
 
-I am a final year student majoring in information systems at Indonesian Computer University. I have interest in Data Analytics, Machine Learning, and Business Intelligence. I am a graduate pf the Bangkit Academy Program, specializing in Machine Learning.
+Welcome to my GitHub profile! I'm a Data Enthusiast, passionate about Data Analytics, Machine Learning, and Business Intelligence. Here's a little bit about me:
+
+### 👨‍💻 About Me
+- **Name**: Kuncoro Wisnu Jati
+- **Location**: Bandung, Indonesia
+- **Hobbies**: Music, Gym, Coding
+
+### 🔧 Skills
+- **Programming Languages**: HTML, PHP, Javascript, SQL, and Python with Popular Library such as Numpy, Pandas, Scikit Learn, Matplotlib, etc.
+- **Programming Languages**: Power BI, RapidMiner, VS Code, Git and GitHub, Excel, Apache Hadoop, Apache Spark, TensorFlow
+
+### 🌱 Learning
+I'm currently learning Power BI analysis.
+
+### 📫 Contact Me
+Feel free to reach out to me via:
+- **Email**: [wisnujati29@gmail.com](mailto:wisnujati29@gmail.com)
+- **LinkedIn**: [Kuncoro Wisnu Jati](https://www.linkedin.com/in/kuncorowisnujati/)
+
+### 📜 Blog
+I also write about my portfolio on my [Blog](https://wisnukuncoro.framer.website/)
+
+### 🚀 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Let's connect and make something great together!
 
 <p align="left">
 <a href="https://github.com/wisnukuncoro">
@@ -8,18 +31,3 @@ I am a final year student majoring in information systems at Indonesian Computer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnukuncoro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<!--
-**wisnukuncoro/wisnukuncoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
