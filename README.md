@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Data Enthusiast, passionate about Data Analy
 
 ### 🔧 Skills
 - **Programming Languages**: HTML, PHP, Javascript, SQL, and Python with Popular Library such as Numpy, Pandas, Scikit Learn, Matplotlib, etc.
-- **Programming Languages**: Power BI, RapidMiner, VS Code, Git and GitHub, Excel, Apache Hadoop, Apache Spark, TensorFlow
+- **Tools**: Power BI, RapidMiner, VS Code, Git and GitHub, Excel, Apache Hadoop, Apache Spark, TensorFlow
 
 ### 🌱 Learning
 I'm currently learning Power BI analysis.
